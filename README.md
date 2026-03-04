@@ -28,33 +28,7 @@ The system calculates the **Goal Rate** of each player.
 
 ---
 
-## 📁 Project Structure
 
-FootballPlayerProject/
-│
-├── FootballPlayer.java  
-├── LaLigaPlayer.java  
-├── PremierLeaguePlayer.java  
-└── Main.java  
-
----
-
-## 🏗️ Class Overview
-
-### 🔹 FootballPlayer (Abstract Class)
-
-- Private Fields:
-  - name
-  - goals
-  - matchesPlayed
-  - monthlySalary (Confidential)
-- Public Getters (except salary)
-- Abstract Method:
-  ```java
-  public abstract double calculateGoalRate();
-  ```
-
----
 
 ### 🔹 LaLigaPlayer
 
@@ -124,4 +98,5 @@ If you have `output.png` inside your repository folder, add this line to display
 
 Ahsan Habib  
 ID :0272230005101015 
+
 Java OOP Practice Project
