@@ -88,11 +88,11 @@ Goal Rate: 1.3333333333333333
 
 If you have `output.png` inside your repository folder, add this line to display it:
 
-```markdown
-![Program Output](output.png)
-```
+![Program Output](https://i.ibb.co/zVt6D8Ls/output.png)
 
 ---
+
+
 
 ## 👨‍💻 Author
 
